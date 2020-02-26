@@ -8,4 +8,4 @@ The official training code
 
 ## License
 
-[MIT License]()
+[MIT License](https://github.com/gjjuarez/training/blob/master/LICENSE)
